@@ -1,0 +1,23 @@
+Listado de requerimientos.
+
+paso 1
+
+rut 
+entrada y salida
+precios
+productos vendidos del dia
+listado
+Direccion
+inventario diario
+compra repuestos al extranjero.
+
+Idea del proyecto.
+
+El cliente pide un software el cual pueda ingresar con su Rut, además
+quiere implementar un sistema de entrada y salida de cada trabajador.
+También desea llevar un inventario diario de cada repuesto que él
+tiene y llevar un orden.
+Que ningún producto sea despachado sin antes ser cancelado y
+además cada uno contara con un código el cual llevara un control de
+los precios y al momento de hacer cierre de cajas, este muestre la
+suma de las ventas y los productos vendidos en el trayecto del dia.
